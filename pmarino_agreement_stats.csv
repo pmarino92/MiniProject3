@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;50.0;100.0;-0.190;1.000;5;5;"All 5 marked agreed post-discussion; 4 adjudicated values still blank—confirm final labels."
+WhyRecovered;60.0;100.0;NA;NA;4;4;"Differences mainly recovery explanations versus N/A; all 4 marked agreed."
+ActivityPattern;60.0;100.0;0.429;1.000;4;4;"Normalized capitalization; irregular/declining/cyclical interpretations reconciled."
+Currentstatus;90.0;100.0;0.615;1.000;1;1;"Active/inactive capitalization normalized; one disputed status reconciled."
+RecentThemes;70.0;100.0;NA;NA;3;3;Differences in theme specificity and documentation versus maintenance labels.
